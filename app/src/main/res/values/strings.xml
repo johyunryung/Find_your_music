@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Find you music</string>
+    <string name="app_name">Find your music</string>
+
+    <!--로고 페이지 -->
+    <string name="logo_text">Find Your Music</string>
+
+    <!--메인 페이지-->
+    <string name="main_text">원하시는 기능을 선택해주세요.</string>
+
+    <string name="test_tex">자신이랑 어울리는 음악 찾기</string>
+    <string name="click1">Click me!</string>
+
+    <string name="share_tex">관련된 음악 리스트를 적기</string>
+    <string name="click2">Click me!</string>
 </resources>
